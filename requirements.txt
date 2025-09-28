@@ -1,0 +1,10 @@
+keras
+jupyter
+numpy
+matplotlib
+Pillow
+opencv-python
+face_recognition
+opencv-contrib-python
+mediapipe
+dlib
