@@ -61,7 +61,7 @@ Webcam or camera device
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ehsan-ullah-ai/advanced-face-detection.git
+git clone https://github.com/ehsanaiverse/advanced-face-detection.git
 cd advanced-face-detection
 ```
 
@@ -314,9 +314,9 @@ MIT License - Feel free to use, modify, and distribute
 
 ## 📞 Contact & Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/ehsan-ullah-ai/advanced-face-detection/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/ehsanaiverse/advanced-face-detection/issues)
 - **Email**: ihsan42180@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/ehsanullah-ai)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/ehsanaiverse)
 
 ---
 
